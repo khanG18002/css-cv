@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    margin-top: none;
+    font-size: large;
+}
+
+.heading{
+    font-family: Sacramento;
+}
+
+#div1{
+
+    background-color: lightblue;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.top-container{
+
+    text-align: center;
+}
+
+.top-cloud{
+    height: 100px;
+    width: 200px;
+}
+
+.cloud1{
+    position: absolute;
+    left: 25%;
+    top: 180px ;
+    height: 300px;
+    width: 800px;
+ 
+}
+
+.cloud2{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 10px;
+    top: 3%;
+}
+
+
+.cloud3{
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    height: 200px;
+    width: 500px;
+    
+}
+
+.mountain{
+    max-width: 100%;
+}
+
+.profile-pic{
+    height: 280px ;
+    width: 260px ;
+    border-radius: 50%;
+    }
+
+.skill-pic{
+    width: 15%;    
+    }
+
+    
