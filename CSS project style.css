@@ -4,13 +4,27 @@ body{
     font-size:x-large;
 }
 
-.heading{
+h1{
+    color: #66bfbf;
+    margin: 30px auto 0 auto;
+    font-size: 90px;
     font-family: Sacramento;
+}
+h2{
+    color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+
+#top-paragrape{
+    color: #66bfbf;
+
 }
 
 #div1{
 
-    background-color: lightblue;
+    background-color: rgb(183, 206, 212);
 
 }
 .pro{
@@ -22,6 +36,7 @@ body{
 }
 
 .top-cloud{
+    top: 10%;
     height: 100px;
     width: 200px;
 }
@@ -29,7 +44,7 @@ body{
 .cloud1{
     position: absolute;
     left: 25%;
-    top: 198px ;
+    top: 250px ;
     height: 300px;
     width: 800px;
  
@@ -39,15 +54,15 @@ body{
     height: 500px;
     width: 500px;
     position: absolute;
-    left: 10px;
-    top: 3%;
+    left: 30px;
+    top: 20%;
 }
 
 
 .cloud3{
     position: absolute;
     left: 70%;
-    top: 30%;
+    top: 50%;
     height: 200px;
     width: 500px;
     
@@ -61,10 +76,26 @@ body{
     height: 280px ;
     width: 260px ;
     border-radius: 50%;
+    margin: 100px auto auto auto ;
     }
 
-.skill-pic{
-    width: 15%;    
+.skill-pic1{
+    width: 30%;    
+    float: left;
+    margin: auto 30px auto auto;
     }
+
+.skill-pic2{
+    width: 30%;    
+    float: right;
+    margin-right: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}    
 
     
